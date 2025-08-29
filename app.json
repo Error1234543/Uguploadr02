@@ -22,18 +22,18 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "8264975827:AAEpqb9JFnlqaOvSeZhqKAQdS2GbonCyz0s",
+            "description": "8240807456:AAGx4WvM9hmr5D94yq6VsKMteIgf7CyUpXU",
             "value": "",
             "required": true
         },
         "OWNER": {
             "description": "𝙀𝙣𝙩𝙚𝙧 𝙔𝙤𝙪𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙄𝘿",
-            "value": "7447651332",
+            "value": "8226637107",
             "required": true
         },
         "CREDIT": {
             "description": "𝙀𝙣𝙩𝙚𝙧 𝘾𝙧𝙚𝙙𝙞𝙩 𝙉𝙖𝙢𝙚 𝙞𝙣 𝙖𝙡𝙢𝙤𝙨𝙩 6-8 𝙡𝙚𝙩𝙩𝙚𝙧𝙨",
-            "value": "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎",
+            "value": "SONIC",
             "required": true
         }
     },
